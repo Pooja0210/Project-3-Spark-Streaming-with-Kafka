@@ -17,16 +17,17 @@ Getting this streaming data into Apache Spark-Streaming is the first step to per
 [Kafka Python API](https://github.com/dpkp/kafka-python) is used to interact with kafka cluster. PySpark is used to write the spark streaming jobs.
 
 ## Problem Statements
+  1.What are the current active cities in India which are scheduling Meetup Events?
+  
+  2.What are the trending topics in US Meetup Events?
+  
+  3.How many Big data Meetup Events events scheduled in Mumbai?
 
-1.What are the current active cities in India which are scheduling Meetup Events?
-2.What are the trending topics in US Meetup Events?
-3.How many Big data Meetup Events events scheduled in Mumbai?
-
-## Features
-
-1: Real-Time Data is evaluated.
-2: we get to know about kafka producer and consumer apart from SparkStreaming
-3: This Gives the features about the messaging backend Algorithm that how it works.
+## FEATURES
+    1: Real-Time Data is evaluated.
+    2: we get to know about kafka producer and consumer apart from SparkStreaming
+    3: This Gives the features about the messaging backend Algorithm that how it works.
+   
 
 
 ## Execute the Application
