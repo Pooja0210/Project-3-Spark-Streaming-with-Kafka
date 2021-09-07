@@ -16,6 +16,12 @@ Getting this streaming data into Apache Spark-Streaming is the first step to per
 
 [Kafka Python API](https://github.com/dpkp/kafka-python) is used to interact with kafka cluster. PySpark is used to write the spark streaming jobs.
 
+## Problem Statements
+
+1.What are the current active cities in India which are scheduling Meetup Events?
+2.What are the trending topics in US Meetup Events?
+3.How many Big data Meetup Events events scheduled in Mumbai?
+
 ## Execute the Application
 
 Assuming Kafka and Spark of appropriate version is installed, the following commands are used to run the application.
