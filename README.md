@@ -51,9 +51,6 @@ bin/spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.1.2 /ho
 ```
 6. Start <consumer>.ipynb file to visualize the data.
 
-# License
-- This project uses the following license: <MIT License>
-
 # References
 - https://mvnrepository.com/artifact/org.apache.spark/spark-streaming-kafka-0-8_2.11/2.0.1
 - https://stream.meetup.com/2/rsvps
